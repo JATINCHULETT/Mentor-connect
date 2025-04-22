@@ -72,10 +72,11 @@ cd MentorConnect
 ```npm run dev
 
 ---
-### Author
-👨‍💻 Jatin chulet
+## 👤 Author
 
-💼 GitHub: @JATINCHULETT
+**👨‍💻 Jatin Chulet**
 
-✉️ Email: jatinchulet680@gmail.com
+- 💼 GitHub: [@JATINCHULETT](https://github.com/JATINCHULETT)  
+- ✉️ Email: [jatinchulet680@gmail.com](mailto:jatinchulet680@gmail.com)
+
 
